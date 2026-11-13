@@ -237,7 +237,7 @@ GEM
     omniauth-oauth2 (1.10.0)
       oauth2 (>= 2.0.2, < 3)
       omniauth (~> 2.3, >= 2.3.1)
-    omniauth-rails_csrf_protection (1.0.2)
+    omniauth-rails_csrf_protection (2.0.1)
       actionpack (>= 4.2)
       omniauth (~> 2.0)
     ostruct (0.6.3)
@@ -445,7 +445,7 @@ DEPENDENCIES
   kamal
   minitest-mock
   omniauth-auth0 (~> 3.0)
-  omniauth-rails_csrf_protection (~> 1.0)
+  omniauth-rails_csrf_protection (~> 2.0)
   propshaft
   puma (>= 5.0)
   rails (~> 8.1.3)
